@@ -1,0 +1,23 @@
+@media (max-width: 767px) {
+    .hide-breadcrumbs {
+      display: none;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .show-breadcrumbs {
+      display: flex;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .hide-div {
+      display: none;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .show-div {
+      display: block;
+    }
+  }

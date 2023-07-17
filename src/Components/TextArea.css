@@ -1,0 +1,25 @@
+@media (max-width: 767px) {
+    .hide-button {
+      display: none;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .show-button {
+      display: block;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .hide-line {
+      display: none;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .show-line {
+      display: block;
+    }
+  }
+
+  
